@@ -1,8 +1,6 @@
 # portfolioProject
-==
 
 ## Random Message Generator
---
 
 >This generator is created to fullfill certain tasks given to me through the >full stack developer skill path on codecademy.com. It will demonstrate my >skills in js, git, github, documentation and so on.
 
